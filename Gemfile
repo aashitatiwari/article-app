@@ -49,7 +49,7 @@ gem "twitter-bootstrap-rails"
 gem "devise"
 gem "cancancan",'~> 2.0'
 gem "friendly_id",'~> 5.1.0'
-
+gem "ckeditor"
 group :development,:test do
   gem 'sqlite3'
 end
